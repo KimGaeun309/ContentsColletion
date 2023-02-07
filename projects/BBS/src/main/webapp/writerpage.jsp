@@ -9,6 +9,8 @@
 	
 	<title>작가페이지</title>
 	
+	<link href="styles.css" rel="stylesheet" type="text/css">
+	
 	<style>
 	body {
 		height: 70;
@@ -33,30 +35,6 @@
 	h3 {
 	padding-top: 10px;
 	padding-left: 50px;
-	}
-	
-	#listbar {
-  		background: rgb(49, 168, 49);
-	}
-	
-	#listbar ul {
-		margin: 3px;
-		padding: 7px;
-		width: 1224px;
-		text-align: center;
-	}
-	
-	#listbar ul li {
-		display: inline-block;
-		list-style-type: none;
-		padding: 0px 15px;
-		margin-top: 5px;
-		margin-bottom: 5px;
-	}
-
-	#listbar ul li a {
-		color: black;
-		text-decoration: none;
 	}
 	
 	.Book-folder{
@@ -108,7 +86,7 @@
       </ul>
     </nav>
 	
-	<hr style="margin-top:20px; border-top: 3px dashed; color: rgb(49, 168, 49)" />
+	<!-- <hr style="margin-top:20px; border-top: 3px dashed; color: rgb(49, 168, 49)" /> -->
 	
 	<h2>작가 소개</h2>
 	<h3>프로필</h3>

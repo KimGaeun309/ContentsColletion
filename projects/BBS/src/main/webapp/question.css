@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 70;
+  width: 1224px;
+  justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 24px;
+  background-color: #e8f5e9;
+}
+
+#listbar {
+  text-align: left;
+  background: #66bb6a;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  height: 30px;
+}
+#listbar ul {
+  margin: 3px;
+  padding: 7px;
+  width: 1224px;
+  text-align: center;
+}
+#listbar ul li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0px 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+#listbar ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#listbar ul li a:hover {
+  color: green;
+}
+
+h3 {
+  text-align: left;
+  color: #43a047;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 5px 0px 0px 10px;
+}
+details {
+  color: #2e7d32;
+  padding: 40px 0px 0px 70px;
+  margin-left: 25px;
+}
+
+.qlist {
+  width: 500px;
+  height: 500px;
+  background-color: #a5d6a7;
+  margin-left: 90px;
+  float: left;
+}
+
+.cell {
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  background-color: #a5d6a7;
+  margin-left: 50px;
+  float: left;
+}
+.cell input {
+  background-color: white;
+  border: none;
+  border-bottom: 1px solid #2e7d32;
+  border-radius: 0;
+  box-shadow: none;
+  height: 50px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+input::placeholder {
+  color: #81c784;
+  margin-left: 2px;
+}
+
+.register {
+  padding-top: 50px;
+}
+.button {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  width: 500px;
+  height: 100px;
+  padding-top: 30px;
+}
+.btn:hover {
+  color: yellowgreen;
+}
