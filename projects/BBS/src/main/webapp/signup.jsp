@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- ∏ﬁ≈∏ ≈¬±◊ -->
+	<!-- Î©îÌÉÄ ÌÉúÍ∑∏ -->
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
@@ -25,7 +25,7 @@
           <br />
           <input type="text" class="id" placeholder="&nbsp;&nbsp;ID" required />
 
-          <button type="submit" class="cbtn">¡ﬂ∫π»Æ¿Œ</button>
+          <button type="submit" class="cbtn">Ï§ëÎ≥µÌôïÏù∏</button>
 
           <br />
           <input
@@ -46,9 +46,9 @@
         <form class="choice" role="form">
           <p>
             <label>
-              <input type="radio" name="sex" value="1" />ø©¿⁄&nbsp;&nbsp;
+              <input type="radio" name="sex" value="1" />Ïó¨Ïûê&nbsp;&nbsp;
             </label>
-            <label> <input type="radio" name="sex" value="2" />≥≤¿⁄ </label>
+            <label> <input type="radio" name="sex" value="2" />ÎÇ®Ïûê </label>
           </p>
         </form>
         <form class="select" role="form">
@@ -59,15 +59,15 @@
             placeholder="&nbsp;&nbsp;AGE"
           /><br />
           <datalist id="ages">
-            <option value="10¥Î"></option>
-            <option value="20¥Î"></option>
-            <option value="30¥Î"></option>
-            <option value="40¥Î"></option>
-            <option value="50¥Î"></option>
-            <option value="60¥Î"></option>
-            <option value="70¥Î"></option>
-            <option value="80¥Î"></option>
-            <option value="90¥Î"></option>
+            <option value="10ÎåÄ"></option>
+            <option value="20ÎåÄ"></option>
+            <option value="30ÎåÄ"></option>
+            <option value="40ÎåÄ"></option>
+            <option value="50ÎåÄ"></option>
+            <option value="60ÎåÄ"></option>
+            <option value="70ÎåÄ"></option>
+            <option value="80ÎåÄ"></option>
+            <option value="90ÎåÄ"></option>
           </datalist>
 
           <input
@@ -77,11 +77,11 @@
             placeholder="&nbsp;&nbsp;JOB"
           /><br />
           <datalist id="jobs">
-            <option value="√ µÓ"></option>
-            <option value="¡ﬂµÓ"></option>
-            <option value="∞ÌµÓ"></option>
-            <option value="¥Î«–ª˝"></option>
-            <option value="¡˜¿Â¿Œ"></option>
+            <option value="Ï¥àÎì±"></option>
+            <option value="Ï§ëÎì±"></option>
+            <option value="Í≥†Îì±"></option>
+            <option value="ÎåÄÌïôÏÉù"></option>
+            <option value="ÏßÅÏû•Ïù∏"></option>
           </datalist>
         </form>
         <form class="button" role="form">
